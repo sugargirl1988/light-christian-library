@@ -8,7 +8,7 @@ function App() {
     <div>
       
       <div className="header-me">
-      <h1>Light Christian Library</h1>
+      <h1>Light Christian Library (R)</h1>
       </div>
       
       <div className="App">
